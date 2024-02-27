@@ -1,14 +1,15 @@
+## Live Demo
+
+Check out the live version of the Todo App deployed on vercel:
+
+[Todo App Live Demo](https://todo-n0dd5gfjk-rahul-deys-projects.vercel.app/)
+
+
 ## Git Repository
 
 You can find the source code for this Todo App on GitHub:
 
 [Todo App Repository](https://github.com/RahulDey25/Todo-App)
-
-## Live Demo
-
-Check out the live version of the Todo App:
-
-[Todo App Live Demo](https://todo-n0dd5gfjk-rahul-deys-projects.vercel.app/)
 
 
 # Getting Started with Create React App
