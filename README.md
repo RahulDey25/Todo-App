@@ -2,7 +2,7 @@
 
 Check out the live version of the Todo App deployed on vercel:
 
-[Todo App Live Demo](https://todo-n0dd5gfjk-rahul-deys-projects.vercel.app/)
+[Todo App Live Demo](https://todo-app-eosin-beta-67.vercel.app/)
 
 
 ## Git Repository
